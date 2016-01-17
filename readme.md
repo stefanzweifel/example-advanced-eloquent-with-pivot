@@ -9,3 +9,5 @@ This is an example project wich was mentioned in an article I wrote. You can rea
 - Test
 
 ## License
+
+MIT
