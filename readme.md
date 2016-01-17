@@ -1,6 +1,6 @@
 # Advanced Eloquent with Pivot Tables
 
-This is an example project wich was mentioned in an article I wrote. You can read the article [here](https://stefanzweifel.io) (Coming very soon).
+This is an example project wich was mentioned in an article I wrote. You can read the article [here](https://stefanzweifel.io/posts/advanced-eloquent-working-with-pivot-tables/).
 
 ## What you're searching for
 
