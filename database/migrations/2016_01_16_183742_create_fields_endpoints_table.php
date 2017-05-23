@@ -14,7 +14,7 @@ class CreateFieldsEndpointsTable extends Migration
     {
         Schema::create('fields_endpoints', function (Blueprint $table) {
             $table->increments('id');
-            $table->integer('endpoint_id')->unisgned();
+            $table->integer('endpoint_id')->unsigned();
             $table->integer('field_id')->unsigned();
         });
     }
